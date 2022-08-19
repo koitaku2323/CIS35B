@@ -1,0 +1,25 @@
+PS C:\Users\RyanPC\Desktop\CIS 35B - Lab 4>  & 'C:\Program Files\Eclipse Foundation\jdk-11.0.12.7-hotspot\bin\java.exe' '-cp' 'C:\Users\RyanPC\AppData\Roaming\Code\User\workspaceStorage\3a47127d7ddd3f372b4108f64a06819f\redhat.java\jdt_ws\CIS 35B - Lab 4_de4b8aff\bin' 'driver.Driver'
+AutoException Error No: INVALID_BASE_PRICE, Error Message: Auto base price is invalid
+
+Transmission OptionSet contains these options now:
+OptionSet Name: Transmission
+Option Name: non-standard, Price: $0.0
+Option Name: standard, Price: $-815.0 
+
+Color OptionSet contains these options now:
+OptionSet Name: Color
+Option Name: Gold, Price: $0.0
+Option Name: Liquid Grey Clearcoat Metallic, Price: $0.0
+Option Name: Infra-Red Clearcoat, Price: $0.0
+Option Name: Grabber Green Clearcoat Metallic, Price: $0.0
+Option Name: Sangria Red Clearcoat Metallic, Price: $0.0
+Option Name: French Blue Clearcoat Metallic, Price: $0.0
+Option Name: Twilight Blue Clearcoat Metallic, Price: $0.0
+Option Name: CD Silver Clearcoat Metallic, Price: $0.0
+Option Name: Pitch Black Clearcoat, Price: $0.0
+Option Name: Cloud 9 White Clearcoat, Price: $0.0
+
+Transmission OptionSet contains these options now:
+OptionSet Name: Transmission
+Option Name: non-standard, Price: $0.0
+Option Name: standard, Price: $-1500.0
